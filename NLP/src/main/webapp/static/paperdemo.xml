@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article>
+	<title_auther>
+	基于改进的 TextRank 算法的中文文本摘要实现 徐馨韬，柴小丽，谢彬，沈晨，王敬平 （中国电子科技集团公司第三十二研究所,上海 201800）	
+	</title_auther>
+	<context>
+		<p type ="txt">
+			范例论文 摘要: 这是 2018年发生的一些有趣的新闻，有国内的和国外的。 
+		</p>	
+		<p type ="txt">关键字 ： 新闻 2018年已经过去了，但是发生了许多有趣的事情，让我们来看看有那些吧？</p>
+		<p type ="ref" id = "ref1">“甩老族”[1] 肆意践踏养老责任,引发社会关注。</p>
+		<p type ="ref" id = "ref2">如今网络普及，直播[2]火爆，到底 是好是坏？</p>
+		<p type ="ref" id = "ref3">明星[3]们是年轻人喜欢的群体，“恋爱险”到底是什么？</p>
+		<p type ="ref" id = "ref4">China's toppolitical[4] What is it that has aroused great concern at home and abroad? Let's have a look.</p>
+	</context>
+	<reference>
+		<r id ="ref1">别让“甩老族”肆意践踏养老责任</r>
+		<r id ="ref2">直播乱象频出何时能休</r>
+		<r id ="ref3">“鹿晗恋爱险”是有毒的金融创新</r>
+		<r id ="ref4">China's top political advisory body starts annual session</r>
+	</reference>
+</article>
